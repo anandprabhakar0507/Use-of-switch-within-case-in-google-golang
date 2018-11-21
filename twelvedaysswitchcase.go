@@ -33,31 +33,5 @@ func main() {
 			fmt.Println("a partridge in fear tree.")
 		}
 
-		if day == 12 {
-
-		} else if day == 11 {
-
-		} else if day == 10 {
-
-		} else if day == 9 {
-
-		} else if day == 8 {
-
-		} else if day == 7 {
-
-		} else if day == 6 {
-
-		} else if day == 5 {
-
-		} else if day == 4 {
-
-		} else if day == 3 {
-
-		} else if day == 2 {
-
-		} else if day == 1 {
-
-		}
 	}
-
 }
